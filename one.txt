@@ -1,1 +1,2 @@
 hi this is line one
+hi this is line two
